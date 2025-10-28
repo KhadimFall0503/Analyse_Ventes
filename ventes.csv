@@ -1,0 +1,11 @@
+id,produit,categorie,quantite,prix_unitaire,date_vente
+1,Clavier,Informatique,10,25.5,2025-01-10
+2,Souris,Informatique,15,15.0,2025-01-12
+3,Chaise,Bureau,5,120.0,2025-02-03
+4,Bureau,Bureau,3,350.0,2025-02-10
+5,Casque Audio,Informatique,8,80.0,2025-03-01
+6,Lampe,Bureau,10,45.0,2025-03-05
+7,Écran,Informatique,6,210.0,2025-03-07
+8,Clé USB,Informatique,20,10.0,2025-03-15
+9,Table,Bureau,2,500.0,2025-04-01
+10,Imprimante,Informatique,4,180.0,2025-04-08
